@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "test",
+  "devDependencies": {
+    "eslint": "^2.10.2",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-plugin-import": "^1.8.0"
+  },
+  "eslintConfig": {
+    "rules": {
+     "no-unused-vars": 1,
+     "no-console": 0
+   },
+    "extends": "airbnb-base",
+    "env": {
+      "es6": true,
+      "node": true,
+      "jasmine": true
+    }
+  }
+}
