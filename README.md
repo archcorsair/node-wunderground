@@ -48,3 +48,6 @@ module.exports = {
 ### Known issues:
 
  * Searching by city string may return an error if there is more than one result
+
+### License:
+This project is licensed under the terms of MIT License, see the LICENSE file for more info.
