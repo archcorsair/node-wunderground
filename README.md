@@ -42,6 +42,7 @@ module.exports = {
   apiKey: '<YOUR API KEY>'
 }
 ```
+* Don't forget to add `config.js` to your `.gitignore` file!
 
 
 ### Known issues:
