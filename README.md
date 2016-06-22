@@ -36,7 +36,7 @@ Last Updated on June 22, 12:18 AM PDT
 
 ### Setup:
 * Obtain a free API key from [Wunderground](https://www.wunderground.com/weather/api/).
-* Create a config.js file at the project root. It should look like this:
+* Create a `config.js` file at the project root. It should look like this:
 ```javascript
 module.exports = {
   apiKey: '<YOUR API KEY>'
