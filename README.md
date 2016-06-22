@@ -13,7 +13,7 @@ Feature list:
 ```
 $node main.js tarzana
 ```
-Will return:
+#### Will return:
 ```
 The temperature in Tarzana, CA is 71.6F.
 Feels like: 71.6F
@@ -25,7 +25,7 @@ Last Updated on June 22, 12:03 AM PDT
 ```
 $node main.js 91367
 ```
-Will return:
+#### Will return:
 ```
 The temperature in Woodland Hills, CA is 71.6F.
 Feels like: 71.6F
