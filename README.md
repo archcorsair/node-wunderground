@@ -9,7 +9,7 @@ Feature list:
  * Search by zipcode
 
 ## Example Usage
-
+### Search by city name
 ```
 $node main.js tarzana
 ```
@@ -21,7 +21,7 @@ Relative Humidity: 69%
 Wind: Calm
 Last Updated on June 22, 12:03 AM PDT
 ```
-
+### Search by zipcode
 ```
 $node main.js 91367
 ```
