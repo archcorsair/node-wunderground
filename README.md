@@ -14,6 +14,7 @@ Feature list:
 ```
 $node main.js tarzana
 ```
+
 #### Will return:
 ```
 The temperature in Tarzana, CA is 71.6F.
@@ -22,10 +23,37 @@ Relative Humidity: 69%
 Wind: Calm
 Last Updated on June 22, 12:03 AM PDT
 ```
+
+### Search by city and state
+```
+$node main.js portland
+```
+
+#### Will return:
+```
+Your search term (portland) returned multiple results.
+Try adding the state at the end of your search. Example: Portland OR
+```
+
+#### Oops! Let's try that again:
+```
+$node main.js portland or
+```
+
+#### Will Return:
+```
+The temperature in Portland, OR is 76.5F.
+Feels like: 76.5F
+Relative Humidity: 38%
+Wind: From the ENE at 1.1 MPH Gusting to 2.5 MPH
+Last Updated on June 22, 5:04 PM PDT
+```
+
 ### Search by zipcode
 ```
 $node main.js 91367
 ```
+
 #### Will return:
 ```
 The temperature in Woodland Hills, CA is 71.6F.
