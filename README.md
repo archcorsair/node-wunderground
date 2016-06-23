@@ -47,7 +47,7 @@ module.exports = {
 
 ### Known issues:
 
- * Searching by city string may return an error if there is more than one result
+ * ~~Searching by city string may return an error if there is more than one result~~[Issue 1 - Fixed](https://github.com/archcorsair/node-wunderground/issues/1)
 
 ### License:
 This project is licensed under the terms of MIT License, see the LICENSE file for more info.
