@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "test",
+  "name": "node-wunderground",
   "devDependencies": {
     "eslint": "^2.10.2",
     "eslint-config-airbnb-base": "^3.0.1",
@@ -14,8 +14,7 @@
     "extends": "airbnb-base",
     "env": {
       "es6": true,
-      "node": true,
-      "jasmine": true
+      "node": true
     }
   }
 }
