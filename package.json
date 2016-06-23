@@ -8,13 +8,16 @@
   },
   "eslintConfig": {
     "rules": {
-     "no-unused-vars": 1,
-     "no-console": 0
-   },
+      "no-unused-vars": 1,
+      "no-console": 0
+    },
     "extends": "airbnb-base",
     "env": {
       "es6": true,
       "node": true
     }
+  },
+  "dependencies": {
+    "sb-stream-promise": "^1.0.0"
   }
 }
