@@ -6,6 +6,7 @@ Feature list:
 
  * Displays basic weather information to your console
  * Search by city name
+ * Search by city and state
  * Search by zipcode
 
 ## Example Usage
